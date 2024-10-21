@@ -89,12 +89,11 @@ packages:
   flutter_pdfview:
     dependency: "direct main"
     description:
-      path: "."
-      ref: add_background_color
-      resolved-ref: ce1c69d36c72b4c962da0aea0c87e6df85d16bde
-      url: "https://github.com/bonnybun/flutter_pdfview"
-    source: git
-    version: "1.3.3"
+      name: flutter_pdfview
+      sha256: "715085f9f2c1ad5129dfe0d31a5f0e5481e2e296ce4e6ce72662de28df5456a6"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.3.4"
   flutter_test:
     dependency: "direct dev"
     description: flutter
